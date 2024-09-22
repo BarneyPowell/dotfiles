@@ -1,7 +1,6 @@
 [user]
 	name = Barney Powell
-	email = barney.powell@charlottetilbury.com
-	signingkey = E5FC5B54F60C63D7
+	email = 9741234+BarneyPowell@users.noreply.github.com
 [core]
 	editor = vim
 	excludesfile - ~/.gitignore
@@ -14,9 +13,9 @@
 [gpg]
 	program = gpg
 [commit]
-	gpgsign = true
+	gpgsign = false
 [init]
-	defaultBranch = maini
+	defaultBranch = main
 [push]
 	default = simple
 [alias]
