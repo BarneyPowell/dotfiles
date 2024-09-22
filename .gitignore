@@ -1,4 +1,6 @@
-*.DS_Store
-*.LSOverride
-Thumbs.db
-.bundle
+# As this is designed to sit in the home folder,
+# by default we want to ignore everything.
+#
+# We will then progressively include the files that we want to be under
+# source control.
+*
