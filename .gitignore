@@ -4,3 +4,8 @@
 # We will then progressively include the files that we want to be under
 # source control.
 *
+
+!.config
+!.config/fonts/
+!.config/fonts/**
+
