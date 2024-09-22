@@ -3,7 +3,6 @@
 	email = 9741234+BarneyPowell@users.noreply.github.com
 [core]
 	editor = vim
-	excludesfile - ~/.gitignore
 	autocrlf = input
 [color]
 	branch = auto
